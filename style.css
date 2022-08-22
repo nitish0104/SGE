@@ -1,0 +1,45 @@
+*{
+	margin: 0%;
+	padding: 0%;
+}
+
+ul {
+	display: flex;
+	align-items: center;
+	list-style: none;
+	font-size: 30px;
+	background-color: rgb(169, 133, 133);
+	/* margin-top: 10px; */
+
+}
+
+li {
+	
+	margin: 2px 93px;
+}
+
+
+nav {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 30px;
+	/* margin: 21px 0px */
+}
+
+.search {
+	width: 327px;
+    height: 35px;
+
+}
+h3{
+	background-color: rgb(255, 29, 29);
+	height: 100%;
+	width: 100%;
+	padding: 20px 0;
+	text-align: center;
+}
+ a{
+	text-transform: capitalize;
+}
